@@ -14,7 +14,7 @@
 불가능한 경우 NO를 출력한다.
 */
 
-#define EXAMPLE_1874
+//#define EXAMPLE_1874
 #ifdef EXAMPLE_1874 // 스택 수열
 
 #include <stdio.h>
