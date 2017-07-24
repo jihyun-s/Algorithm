@@ -17,7 +17,7 @@ top: 스택의 가장 위에 있는 정수를 출력한다. 만약 스택에 들어있는 정수가 없는 경�
 출력해야하는 명령이 주어질 때마다, 한 줄에 하나씩 출력한다.
 */
 
-#define EXAMPLE_10828
+//#define EXAMPLE_10828
 #ifdef EXAMPLE_10828 // 스택
 
 #include <iostream>
