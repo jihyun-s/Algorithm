@@ -11,7 +11,7 @@ N과 M이 주어지면 (N,M)-조세퍼스 순열을 구하는 프로그램을 작성하시오.
 예제와 같이 조세퍼스 순열을 출력한다.
 */
 
-#define PROBLEM_1158
+//#define PROBLEM_1158
 #ifdef PROBLEM_1158
 
 #include<stdio.h>
