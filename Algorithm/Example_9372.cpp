@@ -15,7 +15,7 @@
 상근이가 모든 도시를 여행하기 위해 타야 하는 비행기 종류의 최소 개수를 출력한다.
 */
 
-#define PROBLEM_9372
+//#define PROBLEM_9372
 #ifdef PROBLEM_9372
 
 #include<iostream>
