@@ -13,7 +13,7 @@
 첫째 줄에 전위 순회, 둘째 줄에 중위 순회, 셋째 줄에 후위 순회한 결과를 출력한다. 각 줄에 N개의 알파벳을 공백 없이 출력하면 된다.
 */
 
-#define PROBLEM_1991
+//#define PROBLEM_1991
 #ifdef PROBLEM_1991
 
 #include<iostream>
