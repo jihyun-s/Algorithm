@@ -42,9 +42,6 @@
     <ClCompile Include="Example_2751.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Examle_11279.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Example_1197.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -52,6 +49,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Example_11657.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_11279.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_11403.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
