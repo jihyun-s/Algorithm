@@ -17,7 +17,7 @@ P $	$라는 문자를 커서 왼쪽에 추가함
 첫째 줄에 모든 명령어를 수행하고 난 후 편집기에 입력되어 있는 문자열을 출력한다.
 */
 
-#define PROBLEM_1406
+//#define PROBLEM_1406
 #ifdef PROBLEM_1406
 #include<stdio.h>
 #include<malloc.h>
