@@ -9,6 +9,9 @@
 첫째 줄에 최소 스패닝 트리의 가중치를 출력한다.
 */
 
+//#define PROBLEM_1197
+#ifdef PROBLEM_1197
+
 #include<iostream>
 #include<queue>
 #include<vector>
@@ -77,3 +80,5 @@ int main()
 	printf("%d", nSum);
 	return 0;
 }
+
+#endif
