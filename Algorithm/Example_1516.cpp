@@ -14,7 +14,7 @@ N개의 각 건물이 완성되기까지 걸리는 최소 시간을 출력한다.
 */
 
 // 위상정렬
-#define PROBLEM_1516
+//#define PROBLEM_1516
 #ifdef PROBLEM_1516
 #include<iostream>
 #include<vector>
