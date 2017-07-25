@@ -158,6 +158,7 @@
     <ClCompile Include="Example_1753.cpp" />
     <ClCompile Include="Example_1874.cpp" />
     <ClCompile Include="Example_1991.cpp" />
+    <ClCompile Include="Example_2580.cpp" />
     <ClCompile Include="Example_2751.cpp" />
     <ClCompile Include="Example_9372.cpp" />
   </ItemGroup>
