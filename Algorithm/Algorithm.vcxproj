@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Example_1021.cpp" />
     <ClCompile Include="Example_11279.cpp" />
     <ClCompile Include="Example_11403.cpp" />
     <ClCompile Include="Example_11657.cpp" />

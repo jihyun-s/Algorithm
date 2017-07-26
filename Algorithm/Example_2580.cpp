@@ -19,7 +19,7 @@
 스도쿠 판을 채우는 방법이 여럿인 경우는 그 중 하나만을 출력한다.
 */
 
-#define PROBLEM_2580
+//#define PROBLEM_2580
 #ifdef PROBLEM_2580
 #include<iostream>
 using namespace std;
