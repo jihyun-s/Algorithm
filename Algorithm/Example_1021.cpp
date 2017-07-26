@@ -14,7 +14,7 @@
 첫째 줄에 문제의 정답을 출력한다.
 */
 
-#define PROBLEM_1021
+//#define PROBLEM_1021
 #ifdef PROBLEM_1021
 
 #include <cstdio>
