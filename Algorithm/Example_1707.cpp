@@ -12,7 +12,7 @@
 K개의 줄에 걸쳐 입력으로 주어진 그래프가 이분 그래프이면 YES, 아니면 NO를 순서대로 출력한다.
 */
 
-#define PROBLEM_1707
+//#define PROBLEM_1707
 #ifdef PROBLEM_1707
 #include<cstdio>
 #include<string.h>
