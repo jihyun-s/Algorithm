@@ -22,7 +22,7 @@ X는 10,000 이하의 양의 정수이며, 방향 전환 정보는 X가 증가하는 순으로 주어진다.
 문제의 정답,  즉 초(seconds) 를 첫째줄에 출력하라.
 */
 
-#define PROBLEM_3190
+//#define PROBLEM_3190
 #ifdef PROBLEM_3190
 
 #include<stdio.h>
