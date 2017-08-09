@@ -18,7 +18,7 @@ sr이 s1을 선택하는 경우에만 한 팀이 될 수 있다.
 각 테스트 케이스마다 한 줄에 출력하고, 각 줄에는 프로젝트 팀에 속하지 못한 학생들의 수를 나타내면 된다.
 */
 
-#define PROBLEM_9466
+//#define PROBLEM_9466
 #ifdef PROBLEM_9466
 #include<cstdio>
 
